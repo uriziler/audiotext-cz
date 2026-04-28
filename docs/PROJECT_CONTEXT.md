@@ -112,6 +112,8 @@ Výchozí nastavení:
 
 ## Datový model
 
+Detailní datový model je v [DATA_MODEL.md](DATA_MODEL.md). Shrnutí hlavních entit:
+
 ### Recording
 
 - id
