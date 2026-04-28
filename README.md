@@ -18,9 +18,10 @@ AudioText CZ je připravovaná Android aplikace pro lokální přepis audio nahr
 - [Specifikace](docs/SPECIFICATION.md)
 - [Architektura](docs/ARCHITECTURE.md)
 - [Datový model](docs/DATA_MODEL.md)
+- [Interní API design](docs/INTERNAL_API.md)
 - [Project context](docs/PROJECT_CONTEXT.md)
 - [Start checklist](docs/START_CHECKLIST.md)
 
 ## Stav
 
-Projekt má první specifikaci, architekturu a datový model. Produkční Android kód ještě nebyl založen.
+Projekt má první specifikaci, architekturu, datový model a interní API design. Produkční Android kód ještě nebyl založen.

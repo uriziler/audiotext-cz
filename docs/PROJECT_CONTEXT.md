@@ -207,7 +207,7 @@ Detailní datový model je v [DATA_MODEL.md](DATA_MODEL.md). Shrnutí hlavních 
 
 ## API / interní rozhraní
 
-MVP nemá HTTP API. API design se použije jako návrh interních rozhraní mezi moduly.
+MVP nemá HTTP API. Detailní interní API design je v [INTERNAL_API.md](INTERNAL_API.md). Shrnutí základních rozhraní:
 
 ### TranscriptionEngine
 
