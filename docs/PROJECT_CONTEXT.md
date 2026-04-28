@@ -318,10 +318,9 @@ interface RecordingRepository {
 
 ## Otevřená rozhodnutí
 
-- Package name, pracovní návrh: `cz.local.audiotextcz`.
 - Minimální podporovaná verze Androidu.
 - Přesné modelové soubory a jejich download URL/checksum.
-- Jestli Large znamená `large-v3-turbo-q5_0`, nebo plný `large-v3-q5_0`.
-- Jestli MVP zahrne vlastní nahrávání audia, nebo pouze import existujícího souboru.
-- Jestli TXT export stačí, nebo má být v MVP i SRT.
-- Jestli se pracovní audio soubor ukládá dlouhodobě, nebo se po přepisu maže.
+- Jestli package name `cz.local.audiotextcz` zůstane finální.
+- Jestli Large v MVP zůstane `large-v3-turbo-q5_0` po měření na S25 Ultra.
+- Jestli model download poběží přes Android DownloadManager, nebo vlastní HTTP klient.
+- Jestli se `whisper.cpp` integruje jako vendored source, git submodule, nebo samostatný build artifact.
