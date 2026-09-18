@@ -25,7 +25,3 @@ AudioText CZ je připravovaná Android aplikace pro lokální přepis audio nahr
 ## Stav
 
 Projekt má první specifikaci, architekturu, datový model a interní API design. Produkční Android kód ještě nebyl založen.
-
-## Další nástroje v repozitáři
-
-- [Book Translator](book-translator/README.md) — samostatný Python CLI nástroj pro překlad knih (`.txt`/`.epub`) přes OpenAI API, nezávislý na Android aplikaci výše.
